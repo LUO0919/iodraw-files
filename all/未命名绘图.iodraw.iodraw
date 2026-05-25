@@ -88,7 +88,7 @@
         <mxCell id="XfuR8FFDMRDrf7eu6H13-18" value="视频切换台 SONY MVS-6520" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="90" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="XfuR8FFDMRDrf7eu6H13-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XfuR8FFDMRDrf7eu6H13-19" value="Vmix电脑&lt;div&gt;I/O板卡&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
