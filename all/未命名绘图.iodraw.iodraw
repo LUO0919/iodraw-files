@@ -1153,6 +1153,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <UserObject label="AJA录像机" treeRoot="1" id="pNpuUq6BF2-k8Y_7OCtv-15">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=15;fillStyle=solid;strokeColor=#666666;strokeWidth=3;verticalAlign=middle;fontFamily=Helvetica;fontColor=#FFFFFF;fillColor=#808080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1550" y="1223.5" width="176" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
