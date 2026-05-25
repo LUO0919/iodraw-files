@@ -381,9 +381,9 @@
             <mxPoint x="1550" y="1259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="REDLINK录像机" treeRoot="1" id="XfuR8FFDMRDrf7eu6H13-453">
+        <UserObject label="SUMO录像机" treeRoot="1" id="XfuR8FFDMRDrf7eu6H13-453">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=15;fillStyle=solid;strokeColor=#666666;strokeWidth=3;verticalAlign=middle;fontFamily=Helvetica;fontColor=#FFFFFF;fillColor=#808080;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-            <mxGeometry x="1546" y="1033" width="176" height="20" as="geometry" />
+            <mxGeometry x="1550" y="1037" width="176" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="AJA录像机" treeRoot="1" id="XfuR8FFDMRDrf7eu6H13-454">
