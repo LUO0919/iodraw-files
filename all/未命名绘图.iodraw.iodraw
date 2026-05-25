@@ -86,7 +86,7 @@
           <mxGeometry x="140" y="130" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-18" value="视频切换台 SONY MVS-6520" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="90" width="200" height="200" as="geometry" />
+          <mxGeometry x="240" y="100" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XfuR8FFDMRDrf7eu6H13-19">
           <mxGeometry relative="1" as="geometry">
