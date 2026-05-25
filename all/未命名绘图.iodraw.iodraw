@@ -914,7 +914,7 @@
         </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-589" value="" style="endArrow=none;html=1;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="XfuR8FFDMRDrf7eu6H13-590" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="873" y="515" as="sourcePoint" />
+            <mxPoint x="873" y="450" as="sourcePoint" />
             <mxPoint x="872.4699999999999" y="211.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
