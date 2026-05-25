@@ -4,13 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--26" value="" style="endArrow=open;shadow=0;strokeWidth=1;rounded=0;curved=0;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry x="0.5" y="41" relative="1" as="geometry">
-            <mxPoint x="450" y="239" as="sourcePoint" />
-            <mxPoint x="508" y="239" as="targetPoint" />
-            <mxPoint x="-40" y="32" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XfuR8FFDMRDrf7eu6H13-0" target="XfuR8FFDMRDrf7eu6H13-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -57,7 +50,7 @@
           <mxGeometry x="140" y="130" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-18" value="视频切换台 SONY MVS-6520" style="swimlane;whiteSpace=wrap;html=1.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="100" width="200" height="294" as="geometry" />
+          <mxGeometry x="370" y="70" width="200" height="360" as="geometry" />
         </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XfuR8FFDMRDrf7eu6H13-19">
           <mxGeometry relative="1" as="geometry">
