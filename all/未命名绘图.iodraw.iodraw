@@ -1037,9 +1037,6 @@
         <mxCell id="XfuR8FFDMRDrf7eu6H13-598" value="屏幕中控" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2037.5" y="354.5" width="70" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="XfuR8FFDMRDrf7eu6H13-599" value="CAM3返送" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1722" y="548.25" width="131" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-600" value="监视器&lt;br&gt;（灯光团队）" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2013.5" y="488.25" width="90" height="37.5" as="geometry" />
         </mxCell>
