@@ -498,15 +498,6 @@
         <mxCell id="XfuR8FFDMRDrf7eu6H13-463" value="TX1-HD-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1606" y="180" width="88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XfuR8FFDMRDrf7eu6H13-464" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.017;exitY=0.41;exitDx=0;exitDy=0;entryX=0.008;entryY=0.095;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="XfuR8FFDMRDrf7eu6H13-528" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1762.85" y="205.06999999999994" as="sourcePoint" />
-            <mxPoint x="1805.9180000000001" y="205.2885" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1785" y="205" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-465" value="PP CLN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1607" y="244.5" width="80" height="30" as="geometry" />
         </mxCell>
@@ -767,11 +758,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XfuR8FFDMRDrf7eu6H13-527" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XfuR8FFDMRDrf7eu6H13-528" target="XfuR8FFDMRDrf7eu6H13-564" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XfuR8FFDMRDrf7eu6H13-528" value="延时器" style="whiteSpace=wrap;html=1;shadow=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1722" y="191.25" width="82" height="204.5" as="geometry" />
+        <mxCell id="XfuR8FFDMRDrf7eu6H13-527" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="XfuR8FFDMRDrf7eu6H13-564" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1763" y="191.25" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-529" value="趣看&lt;span style=&quot;background-color: initial;&quot;&gt;一体机&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1917.5" y="195.5" width="190" height="42" as="geometry" />
@@ -907,7 +897,7 @@
           <mxGeometry x="775" y="606" width="7" height="7" as="geometry" />
         </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-564" value="&lt;div&gt;推流监视器&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1677.5" y="113.5" width="171" height="32" as="geometry" />
+          <mxGeometry x="1726" y="115.5" width="171" height="32" as="geometry" />
         </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-565" value="&amp;nbsp;EXT3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="917" y="497.5" width="80" height="30" as="geometry" />
