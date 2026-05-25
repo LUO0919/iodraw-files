@@ -360,9 +360,6 @@
             <mxPoint x="1550" y="1153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XfuR8FFDMRDrf7eu6H13-448" value="DCN-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=light-dark(#b95450, #ededed);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1376" y="1145" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-449" value="TIELINE2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1433" y="1200" width="80" height="31" as="geometry" />
         </mxCell>
