@@ -943,13 +943,10 @@
         <mxCell id="95SxHs-DNqgotlSjWJ5F-1" value="H808U-H715L" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#7EA6E0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1165.5" y="360.5" width="107" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="95SxHs-DNqgotlSjWJ5F-2" value="&lt;font&gt;（CLN信号跳到TCN-1输入进行录制）&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1183.5" y="337.5" width="187" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="95SxHs-DNqgotlSjWJ5F-3" value="&lt;font&gt;（MV备信号跳到DCN-1输入进行录制）&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1123" y="379" width="202.5" height="16.5" as="geometry" />
         </mxCell>
-        <mxCell id="95SxHs-DNqgotlSjWJ5F-4" value="&lt;font style=&quot;color: rgb(255, 179, 102);&quot;&gt;【TEST】&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="95SxHs-DNqgotlSjWJ5F-4" value="&lt;font style=&quot;color: rgb(255, 179, 102);&quot;&gt;【MV备】&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1136" y="348.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="95SxHs-DNqgotlSjWJ5F-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="95SxHs-DNqgotlSjWJ5F-6">
