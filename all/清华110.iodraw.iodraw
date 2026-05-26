@@ -815,8 +815,8 @@
         </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-602" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1860.18" y="506.5" as="sourcePoint" />
-            <mxPoint x="1950" y="507" as="targetPoint" />
+            <mxPoint x="1853" y="506.55" as="sourcePoint" />
+            <mxPoint x="1942.82" y="507.05" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XfuR8FFDMRDrf7eu6H13-637" value="CAM1truck口" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
