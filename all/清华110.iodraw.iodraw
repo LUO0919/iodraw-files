@@ -937,8 +937,20 @@
             <mxGeometry x="1550" y="1223.5" width="176" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="95SxHs-DNqgotlSjWJ5F-0" value="PP PGM" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1066" y="320.25" width="80" height="40" as="geometry" />
+        <mxCell id="95SxHs-DNqgotlSjWJ5F-0" value="MV" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1056" y="355.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="95SxHs-DNqgotlSjWJ5F-1" value="H520U-H706L" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#7EA6E0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1223.5" y="1063.5" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95SxHs-DNqgotlSjWJ5F-2" value="&lt;font&gt;（CLN信号跳到TCN-1输入进行录制）&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1188.5" y="1058" width="187" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="95SxHs-DNqgotlSjWJ5F-3" value="&lt;font&gt;（CAM3信号跳到TCN-1输入进行录制）&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1183.5" y="1094.5" width="202.5" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="95SxHs-DNqgotlSjWJ5F-4" value="&lt;font style=&quot;color: rgb(255, 179, 102);&quot;&gt;【TEST】&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1141" y="1069" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
