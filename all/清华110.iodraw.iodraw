@@ -895,10 +895,10 @@
         </mxCell>
         <UserObject label="画分 Evertz 7867-VIPA8（MV8-2）" treeRoot="1" id="opKG8ru22sUpbanjDDHI-1">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=15;fillStyle=solid;strokeColor=#666666;strokeWidth=3;verticalAlign=middle;fontFamily=Helvetica;fontColor=#FFFFFF;fillColor=#808080;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-            <mxGeometry x="1291" y="1510" width="217" height="20" as="geometry" />
+            <mxGeometry x="1291" y="1500" width="217" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="opKG8ru22sUpbanjDDHI-11" value="H814U-H707L" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#7EA6E0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="opKG8ru22sUpbanjDDHI-11" value="H814U-H709L" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#7EA6E0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1546.25" y="1510.75" width="107" height="30" as="geometry" />
         </mxCell>
         <mxCell id="opKG8ru22sUpbanjDDHI-12" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
