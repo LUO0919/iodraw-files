@@ -902,8 +902,8 @@
             <mxPoint x="1301.5" y="405.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1vwguIGQhmw21CIt3VOM-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="356" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="1vwguIGQhmw21CIt3VOM-5" value="监视器（给灯光看）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="356" y="100" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
