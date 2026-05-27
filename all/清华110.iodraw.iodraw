@@ -913,32 +913,8 @@
             <mxGeometry x="1291" y="1510" width="217" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="opKG8ru22sUpbanjDDHI-2" value="H814U-H707L" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#7EA6E0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1148" y="1510.75" width="107" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="opKG8ru22sUpbanjDDHI-3" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1199.25" y="1518.75" width="4.5" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="opKG8ru22sUpbanjDDHI-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;（光圈画分单独接一路显示器）&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1147" y="1498.25" width="153" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="opKG8ru22sUpbanjDDHI-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1217.5" y="1540.75" width="7" height="7" as="geometry" />
-        </mxCell>
-        <mxCell id="opKG8ru22sUpbanjDDHI-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1223.25" y="1543.25" as="sourcePoint" />
-            <mxPoint x="1292" y="1543.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="opKG8ru22sUpbanjDDHI-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1178.5" y="1540.75" width="7" height="7" as="geometry" />
-        </mxCell>
-        <mxCell id="opKG8ru22sUpbanjDDHI-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1109.75" y="1543.91" as="sourcePoint" />
-            <mxPoint x="1178.5" y="1543.91" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="opKG8ru22sUpbanjDDHI-11" value="H814U-H707L" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#7EA6E0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1546.25" y="1510.75" width="107" height="30" as="geometry" />
@@ -947,7 +923,7 @@
           <mxGeometry x="1597.5" y="1518.75" width="4.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="opKG8ru22sUpbanjDDHI-13" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;（光圈画分单独接一路显示器）&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1545.25" y="1498.25" width="153" height="27" as="geometry" />
+          <mxGeometry x="1538.5" y="1498.25" width="153" height="27" as="geometry" />
         </mxCell>
         <mxCell id="opKG8ru22sUpbanjDDHI-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1615.75" y="1540.75" width="7" height="7" as="geometry" />
