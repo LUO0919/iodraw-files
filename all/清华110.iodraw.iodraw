@@ -881,7 +881,7 @@
         <mxCell id="95SxHs-DNqgotlSjWJ5F-9" value="" style="endArrow=none;html=1;rounded=0;startFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1237.5" y="405.5" as="sourcePoint" />
-            <mxPoint x="1301.5" y="405.5" as="targetPoint" />
+            <mxPoint x="1380" y="406" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1vwguIGQhmw21CIt3VOM-5" value="监视器（给灯光看）" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -941,7 +941,7 @@
           <mxGeometry x="384.5" y="154" width="63" height="16.5" as="geometry" />
         </mxCell>
         <mxCell id="LrpkCcy8mdq26KLkwVxS-0" value="TCN-R" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=light-dark(#b95450, #ededed);" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1237.5" y="337.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="1228" y="340.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LrpkCcy8mdq26KLkwVxS-1" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
