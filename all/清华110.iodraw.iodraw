@@ -905,8 +905,8 @@
         <mxCell id="1vwguIGQhmw21CIt3VOM-5" value="监视器（给灯光看）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="356" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1vwguIGQhmw21CIt3VOM-6" value="&lt;font&gt;（MV备信号跳到TCN-R，再进画分板卡）&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="407" y="141.5" width="202.5" height="16.5" as="geometry" />
+        <mxCell id="1vwguIGQhmw21CIt3VOM-6" value="RET" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="407" y="141.5" width="63" height="16.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
