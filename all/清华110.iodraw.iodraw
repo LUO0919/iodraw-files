@@ -908,8 +908,8 @@
             <mxPoint x="696" y="161" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1vwguIGQhmw21CIt3VOM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="637.04" y="101.5" width="120" height="60" as="geometry" />
+        <mxCell id="1vwguIGQhmw21CIt3VOM-2" value="监视器（给灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="637.04" y="101.5" width="120" height="28.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
