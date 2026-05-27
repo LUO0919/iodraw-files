@@ -925,18 +925,6 @@
             <mxPoint x="1576.75" y="1543.91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="opKG8ru22sUpbanjDDHI-19" value="小监" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1550" y="1291" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="opKG8ru22sUpbanjDDHI-20" value="TIELINE1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1443" y="1281.5" width="103" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="opKG8ru22sUpbanjDDHI-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.035;exitY=0.813;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="opKG8ru22sUpbanjDDHI-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1431" y="1305.5" as="sourcePoint" />
-            <mxPoint x="1550" y="1306" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="opKG8ru22sUpbanjDDHI-22" value="truck" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="384.5" y="154" width="63" height="16.5" as="geometry" />
         </mxCell>
@@ -984,6 +972,12 @@
         </mxCell>
         <mxCell id="LrpkCcy8mdq26KLkwVxS-14" value="光圈备用监看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1790" y="1527.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LrpkCcy8mdq26KLkwVxS-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.035;exitY=0.813;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1447" y="1094" as="sourcePoint" />
+            <mxPoint x="1560" y="1094" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
