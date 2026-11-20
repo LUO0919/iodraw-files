@@ -803,12 +803,18 @@
           <mxGeometry x="200.5" y="698" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-208" value="采集卡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="721.5" y="350" width="80" height="34" as="geometry" />
+          <mxGeometry x="699.5" y="351.67" width="80" height="34" as="geometry" />
         </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-209" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="639.5" y="236" as="sourcePoint" />
-            <mxPoint x="710" y="236" as="targetPoint" />
+            <mxPoint x="629" y="366.52" as="sourcePoint" />
+            <mxPoint x="699.5" y="366.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUCLwZMFFrOl_rTmM-Qz-210" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639" y="376.52" as="sourcePoint" />
+            <mxPoint x="709.5" y="376.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
