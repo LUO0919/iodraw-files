@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="bopTmNXnr390PCcRKTxt">
-    <mxGraphModel dx="2094" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2241" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,12 +100,6 @@
         </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-29" value="AUX 4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="pUCLwZMFFrOl_rTmM-Qz-19">
           <mxGeometry x="120" y="226" width="45" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pUCLwZMFFrOl_rTmM-Qz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="pUCLwZMFFrOl_rTmM-Qz-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="287" as="sourcePoint" />
-            <mxPoint x="274.5" y="286.9999999999999" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="pUCLwZMFFrOl_rTmM-Qz-19" source="pUCLwZMFFrOl_rTmM-Qz-33">
           <mxGeometry relative="1" as="geometry">
@@ -618,9 +612,6 @@
             <mxPoint x="287" y="590.84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pUCLwZMFFrOl_rTmM-Qz-148" value="【PGM】" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFD966;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="511" y="343" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-149" value="" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#990000,#990000);strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points">
@@ -669,9 +660,6 @@
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-160" value="【PGM】" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFD966;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="511" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pUCLwZMFFrOl_rTmM-Qz-161" value="AUX 5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="578.75" y="344" width="45" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-162" value="AUX 3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="579" y="252" width="45" height="30" as="geometry" />
         </mxCell>
@@ -706,7 +694,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-170" value="TO&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;VTR1&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="673" y="404" width="60" height="20" as="geometry" />
+          <mxGeometry x="673" y="365.67" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
