@@ -677,20 +677,20 @@
         </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="519.5" y="413" as="sourcePoint" />
-            <mxPoint x="629" y="412.9999999999999" as="targetPoint" />
+            <mxPoint x="519.5" y="375.14" as="sourcePoint" />
+            <mxPoint x="629" y="375.1399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-167" value="【CLEAN】" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFD966;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="516" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="516.5" y="360.67" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-168" value="AUX 6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="578.75" y="391" width="45" height="30" as="geometry" />
+          <mxGeometry x="578.75" y="355.67" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-169" value="" style="endArrow=block;html=1;rounded=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="631" y="413" as="sourcePoint" />
-            <mxPoint x="674" y="413" as="targetPoint" />
+            <mxPoint x="631" y="375.14" as="sourcePoint" />
+            <mxPoint x="674" y="375.14" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pUCLwZMFFrOl_rTmM-Qz-170" value="TO&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;VTR1&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
